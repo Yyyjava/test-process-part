@@ -115,18 +115,8 @@
 </p>
 
 
-
 <p align="center">
-  <a href="https://weixin.qq.com" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=wechat&logoColor=white&color=1A1B27" /></a>
-  <a href="https://notion.so" target="_blank"><img src="https://skillicons.dev/icons?i=notion" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://lucidchart.com" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=lucidchart&logoColor=white&color=1A1B27" /></a>
-  <a href="https://procreate.com" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=procreate&logoColor=white&color=1A1B27" /></a>
-  <a href="https://planningpokeronline.com" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=pokerstars&logoColor=white&color=1A1B27" /></a>
-  <a href="https://www.google.com/forms/about/" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=googleforms&logoColor=white&color=1A1B27" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=githubcopilot&logoColor=white&color=1A1B27" /></a>
-  <a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/-?style=for-the-badge&logo=anthropic&logoColor=white&color=1A1B27" /></a>
+  <a href="https://weixin.qq.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=wechat&logoColor=white&label=" height="45" /></a><a href="https://notion.so" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=notion&logoColor=white&label=" height="45" /></a><a href="https://github.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=github&logoColor=white&label=" height="45" /></a><a href="https://lucidchart.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=lucidchart&logoColor=white&label=" height="45" /></a><a href="https://procreate.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=procreate&logoColor=white&label=" height="45" /></a><a href="https://planningpokeronline.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=pokerstars&logoColor=white&label=" height="45" /></a><a href="https://www.google.com/forms/about/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=googleforms&logoColor=white&label=" height="45" /></a><a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=git&logoColor=white&label=" height="45" /></a><a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=githubcopilot&logoColor=white&label=" height="45" /></a><a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=%20&color=1A1B27&logo=anthropic&logoColor=white&label=" height="45" /></a>
 </p>
 
 
