@@ -39,3 +39,22 @@
   <img src="https://img.shields.io/badge/LIBRARY-P5.JS-F3A2A2?style=flat-square&logo=p5.js&logoColor=white&labelColor=555555" />
   <img src="https://img.shields.io/badge/HOST-GITHUB%20PAGES-A9BAE1?style=flat-square&logo=github&logoColor=white&labelColor=555555" />
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMMUNICATION-WECHAT-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/MANAGEMENT-NOTION-000000?style=flat-square&logo=notion&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/ENGINE-P5.JS-ED225D?style=flat-square&logo=p5.js&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/DIAGRAM-LUCIDCHART-FF6B00?style=flat-square&logo=lucidchart&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/ESTIMATION-PLANNING%20POKER-5B4FBE?style=flat-square&logo=poker&logoColor=white&labelColor=555555" />
+</p>
+
+<p align="center">
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.npmjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=npm" /></a>
+  <a href="https://notion.so" target="_blank"><img src="https://skillicons.dev/icons?i=notion" /></a>
+  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+</p>
