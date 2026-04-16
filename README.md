@@ -113,3 +113,38 @@
 <img src="https://img.shields.io/badge/Claude-AI%20Assistance-5B3A7D?style=flat-square&logo=anthropic&logoColor=white&labelColor=D97757" />
 </a>
 </p>
+
+
+
+<p align="center">
+<a href="https://weixin.qq.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=wechat" alt="WeChat" />
+</a>
+<a href="https://notion.so" target="_blank">
+<img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+</a>
+<a href="https://github.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://lucidchart.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=lucid" alt="Lucidchart" />
+</a>
+<a href="https://procreate.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=procreate" alt="Procreate" />
+</a>
+<a href="https://planningpokeronline.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=poker" alt="Planning Poker" />
+</a>
+<a href="https://www.google.com/forms/about/" target="_blank">
+<img src="https://skillicons.dev/icons?i=googleforms" alt="Questionnaire" />
+</a>
+<a href="https://git-scm.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git Branching" />
+</a>
+<a href="https://github.com/features/copilot" target="_blank">
+<img src="https://skillicons.dev/icons?i=copilot" alt="Copilot" />
+</a>
+<a href="https://claude.ai" target="_blank">
+<img src="https://skillicons.dev/icons?i=claude" alt="Claude" />
+</a>
+</p>
