@@ -118,34 +118,34 @@
 
 <p align="center">
   <a href="https://weixin.qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=wechat&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=wechat&logoColor=white" height="45" />
   </a>
   <a href="https://notion.so" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=notion&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=notion&logoColor=white" height="45" />
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=github&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   <a href="https://lucidchart.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=lucidchart&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=lucidchart&logoColor=white" height="45" />
   </a>
   <a href="https://procreate.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=procreate&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=procreate&logoColor=white" height="45" />
   </a>
   <a href="https://planningpokeronline.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=poker&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=pokerstars&logoColor=white" height="45" />
   </a>
   <a href="https://www.google.com/forms/about/" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=googleforms&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=googleforms&logoColor=white" height="45" />
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=git&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=git&logoColor=white" height="45" />
   </a>
   <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=githubcopilot&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=githubcopilot&logoColor=white" height="45" />
   </a>
   <a href="https://claude.ai" target="_blank">
-    <img src="https://img.shields.io/badge/--1A1B27?style=for-the-badge&logo=anthropic&logoColor=white" height="45" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20&color=1A1B27&style=for-the-badge&logo=anthropic&logoColor=white" height="45" />
   </a>
 </p>
 
