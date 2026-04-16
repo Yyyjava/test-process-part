@@ -74,3 +74,27 @@
   <img src="https://img.shields.io/badge/DIAGRAM-LUCIDCHART-FF6B00?style=flat-square&logo=lucidchart&logoColor=white&labelColor=5B3A7D" />
   <img src="https://img.shields.io/badge/ESTIMATION-PLANNING%20POKER-5B4FBE?style=flat-square&logo=poker&logoColor=white&labelColor=5B3A7D" />
 </p>
+
+<p align="center">
+<a href="https://weixin.qq.com" target="_blank">
+<img src="https://img.shields.io/badge/COMMUNICATION-WECHAT-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://notion.so" target="_blank">
+<img src="https://img.shields.io/badge/MANAGEMENT-NOTION-000000?style=flat-square&logo=notion&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://nextjs.org" target="_blank">
+<img src="https://img.shields.io/badge/FRAMEWORK-NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://p5js.org" target="_blank">
+<img src="https://img.shields.io/badge/ENGINE-P5.JS-ED225D?style=flat-square&logo=p5.js&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://lucidchart.com" target="_blank">
+<img src="https://img.shields.io/badge/DIAGRAM-LUCIDCHART-FF6B00?style=flat-square&logo=lucidchart&logoColor=white&labelColor=5B3A7D" />
+</a>
+<a href="https://planningpokeronline.com" target="_blank">
+<img src="https://img.shields.io/badge/ESTIMATION-PLANNING%20POKER-5B4FBE?style=flat-square&logo=poker&logoColor=white&labelColor=5B3A7D" />
+</a>
+</p>
