@@ -63,30 +63,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://weixin.qq.com" target="_blank">
-<img src="https://img.shields.io/badge/Communication-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://notion.so" target="_blank">
-<img src="https://img.shields.io/badge/Management-Notion-000000?style=flat-square&logo=notion&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://github.com" target="_blank">
-<img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://nextjs.org" target="_blank">
-<img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://p5js.org" target="_blank">
-<img src="https://img.shields.io/badge/Engine-p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://lucidchart.com" target="_blank">
-<img src="https://img.shields.io/badge/Diagram-Lucidchart-FF6B00?style=flat-square&logo=lucidchart&logoColor=white&labelColor=5B3A7D" />
-</a>
-<a href="https://planningpokeronline.com" target="_blank">
-<img src="https://img.shields.io/badge/Estimation-Planning%20Poker-5B4FBE?style=flat-square&logo=poker&logoColor=white&labelColor=5B3A7D" />
-</a>
-</p>
-
 
 <p align="center">
 <a href="https://weixin.qq.com" target="_blank">
