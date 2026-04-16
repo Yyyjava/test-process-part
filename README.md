@@ -33,3 +33,9 @@
 #### 🌿 版本控制 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 * 所有代码提交和版本发布的**唯一平台**。
 * 遵循 Git Flow 工作流，确保主分支稳定性。
+
+* <p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-A9BAE1?style=flat-square&logo=javascript&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/LIBRARY-P5.JS-F3A2A2?style=flat-square&logo=p5.js&logoColor=white&labelColor=555555" />
+  <img src="https://img.shields.io/badge/HOST-GITHUB%20PAGES-A9BAE1?style=flat-square&logo=github&logoColor=white&labelColor=555555" />
+</p>
