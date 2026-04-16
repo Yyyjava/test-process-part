@@ -118,33 +118,33 @@
 
 <p align="center">
 <a href="https://weixin.qq.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=wechat" alt="WeChat" />
+<img src="https://img.shields.io/badge/WeChat-Communication-5B3A7D?style=flat-square&logo=wechat&logoColor=white&labelColor=07C160" />
 </a>
 <a href="https://notion.so" target="_blank">
-<img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+<img src="https://img.shields.io/badge/Notion-Management-5B3A7D?style=flat-square&logo=notion&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Version%20Control-5B3A7D?style=flat-square&logo=github&logoColor=white&labelColor=181717" />
 </a>
 <a href="https://lucidchart.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=lucid" alt="Lucidchart" />
+<img src="https://img.shields.io/badge/Lucidchart-Class%20Diagram%20Tool-5B3A7D?style=flat-square&logo=lucidchart&logoColor=white&labelColor=FF6B00" />
 </a>
 <a href="https://procreate.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=procreate" alt="Procreate" />
+<img src="https://img.shields.io/badge/Procreate-Drawing%20Tool-5B3A7D?style=flat-square&logo=procreate&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://planningpokeronline.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=poker" alt="Planning Poker" />
+<img src="https://img.shields.io/badge/Planning%20Poker-Estimation%20Tool-5B3A7D?style=flat-square&logo=poker&logoColor=white&labelColor=5B4FBE" />
 </a>
 <a href="https://www.google.com/forms/about/" target="_blank">
-<img src="https://skillicons.dev/icons?i=googleforms" alt="Questionnaire" />
+<img src="https://img.shields.io/badge/Questionnaire-Voting%20Tool-5B3A7D?style=flat-square&logo=googleforms&logoColor=white&labelColor=4285F4" />
 </a>
 <a href="https://git-scm.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" alt="Git Branching" />
+<img src="https://img.shields.io/badge/Git%20Branching-Parallel%20Development-5B3A7D?style=flat-square&logo=git&logoColor=white&labelColor=F05032" />
 </a>
 <a href="https://github.com/features/copilot" target="_blank">
-<img src="https://skillicons.dev/icons?i=copilot" alt="Copilot" />
+<img src="https://img.shields.io/badge/Copilot-AI%20Assistance-5B3A7D?style=flat-square&logo=githubcopilot&logoColor=white&labelColor=24292E" />
 </a>
 <a href="https://claude.ai" target="_blank">
-<img src="https://skillicons.dev/icons?i=claude" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude-AI%20Assistance-5B3A7D?style=flat-square&logo=anthropic&logoColor=white&labelColor=D97757" />
 </a>
 </p>
