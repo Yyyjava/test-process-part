@@ -335,6 +335,11 @@
 <table>
 <tbody>
 <tr>
+<td align="center">
+<img src="录制前截图链接" width="100%" />
+</td>
+</tr>
+<tr>
 <td align="left">
 <img src="https://img.shields.io/badge/-1.%20录制前%20(Pre--Recording)-5B3A7D?style=flat-square" /><br>
 <b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。
@@ -342,7 +347,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="录制前截图链接" width="100%" />
+<img src="录制中截图链接" width="100%" />
 </td>
 </tr>
 <tr>
@@ -353,18 +358,13 @@
 </tr>
 <tr>
 <td align="center">
-<img src="录制中截图链接" width="100%" />
+<img src="录制后截图链接" width="100%" />
 </td>
 </tr>
 <tr>
 <td align="left">
 <img src="https://img.shields.io/badge/-3.%20录制后%20(Post--Playback)-5B3A7D?style=flat-square" /><br>
 <b>讲解：</b> 时空重演阶段。过去分身（Ghost）自动重复录制的动作，玩家本体需配合分身的动作（如分身踩住按钮，本体穿过开启的大门）完成解谜。
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="录制后截图链接" width="100%" />
 </td>
 </tr>
 </tbody>
