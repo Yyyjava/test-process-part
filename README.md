@@ -223,7 +223,7 @@
     <tr>
       <td>对话触发</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>根据任务进度或玩家状态触发的多样化文本 UI。</td>
+      <td>不同状态下会跟主角进行不同的对话。</td>
     </tr>
     <tr>
       <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square" /></td>
