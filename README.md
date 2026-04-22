@@ -262,13 +262,6 @@
       <td>玩家靠近后自动激活。</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square" /></td>
-      <td align="center"><b>机关 (Trap)</b></td>
-      <td>触电动图</td>
-      <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>玩家/分身踩住按钮可释放电流，用于激活最终大门。</td>
-    </tr>
-    <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
       <td align="center"><b>可交互平台</b></td>
       <td>透明/着色</td>
@@ -278,16 +271,16 @@
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
       <td align="center"><b>按钮与门</b></td>
-      <td>逻辑触发</td>
+      <td>触电开启大门</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>展示按钮、电线与大门开启之间的因果联动。</td>
+      <td>玩家/分身踩住按钮可释放电流，用于激活最终大门。</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td>
       <td align="center"><b>敌人 (Enemy)</b></td>
       <td>踩踏击杀</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>巡逻敌对单位，只能通过上方踩踏进行净化。</td>
+      <td>巡逻敌对单位，玩家/分身只能通过从上方踩踏消灭敌人。</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-UI-5B3A7D?style=flat-square" /></td>
