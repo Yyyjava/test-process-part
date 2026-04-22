@@ -143,3 +143,20 @@
 | **分身录制**<br>(Time Record) | **1. 录制前 (Standby)**<br>评估关卡，准备规划路线。 | <img src="录制前图片链接" width="200"/> | 玩家本体处于准备阶段，画面无特殊滤镜或残影效果。 |
 | | **2. 录制中 (Recording)**<br>系统记录玩家当前轨迹。 | <img src="录制中图片链接" width="200"/> | 录制系统启动，视觉上给出明确的录制反馈，实时记录动作序列。 |
 | | **3. 录制后 (Playback)**<br>残影重现，双人配合。 | <img src="录制后图片链接" width="200"/> | 生成过去本体的残影（分身）重现动作，玩家可与自己的过去进行交互解谜。 |
+
+
+
+
+
+### 🎮 游戏内容 (Game Content)
+
+| 分类 (Category) | 名称 (Name) | 演示 (Image) | 描述 (Description) |
+| :--- | :--- | :---: | :--- |
+| <img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square&logoColor=white" /> | 主角 (Player) | <img src="图片链接" width="60"/> | 包含待机动作、死亡动作以及跳跃时的专属特效。 |
+| <img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square&logoColor=white" /> | 动态 NPC (NPC) | <img src="图片链接" width="60"/> | NPC 待机动图展示。根据玩家当前的游戏状态，会触发不同的对话内容。 |
+| <img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square&logoColor=white" /> | 敌人 (Enemy) | <img src="图片链接" width="60"/> | 基础敌对生物，玩家只能通过从上方精准踩踏的方式将其消灭。 |
+| <img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square&logoColor=white" /> | 触电机关 (Trap) | <img src="图片链接" width="60"/> | 动态触电机关，玩家触碰会造成伤害或死亡。 |
+
+
+
+
