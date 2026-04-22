@@ -292,3 +292,132 @@
   </tbody>
 </table>
 
+
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>名称 (Name)</th>
+      <th>状态/形态 (State)</th>
+      <th>演示 (Image)</th>
+      <th>描述 (Description)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4" align="center">
+        <img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" />
+      </td>
+      <td>待机动作</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>主角在静止状态下的呼吸/待机循环动图。</td>
+    </tr>
+    <tr>
+      <td>本身动图</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>展示主角的基础移动与核心像素形象。</td>
+    </tr>
+    <tr>
+      <td>跳跃特效</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td>
+    </tr>
+    <tr>
+      <td>死亡动作</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>角色触碰障碍物或敌对目标时的失败反馈动画。</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2" align="center">
+        <img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" />
+      </td>
+      <td>本身动图</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>非交互状态下的环境待机动画。</td>
+    </tr>
+    <tr>
+      <td>对话触发</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>不同状态下会跟主角进行不同的对话。</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2" align="center">
+        <img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" />
+      </td>
+      <td>基础形态</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>标准金属地刺，常驻危险障碍。</td>
+    </tr>
+    <tr>
+      <td>彩色形态</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2" align="center">
+        <img src="https://img.shields.io/badge/-传送门%20(Portal)-5B3A7D?style=flat-square" />
+      </td>
+      <td>未开启</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>初始静默形态，无法进行时空位移。</td>
+    </tr>
+    <tr>
+      <td>已开启</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>激活后门上出现数字，玩家按对应数字键可瞬移至传送门。</td>
+    </tr>
+
+    <tr>
+      <td rowspan="2" align="center">
+        <img src="https://img.shields.io/badge/-传送点%20(Waypoint)-5B3A7D?style=flat-square" />
+      </td>
+      <td>未触发</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>场景中待激活的存档点。</td>
+    </tr>
+    <tr>
+      <td>自动激活</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>玩家靠近后自动激活。</td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" />
+      </td>
+      <td>透明/着色</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>受按钮控制的透明平台，激活后平台外框显现按钮对应颜色。</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" />
+      </td>
+      <td>触电开启大门</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>玩家/分身踩住按钮可释放电流，用于激活最终大门。</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" />
+      </td>
+      <td>踩踏击杀</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>巡逻敌对单位，玩家/分身只能通过从上方踩踏消灭敌人。</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-教学提示-5B3A7D?style=flat-square" />
+      </td>
+      <td>动态显现</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td>
+    </tr>
+  </tbody>
+</table>
