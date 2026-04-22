@@ -247,7 +247,7 @@
     <tr>
       <td>已开启</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>激活后的动态流光形态，支持双向或单向传送。</td>
+      <td>激活后门上方出现数字，玩家按对应数字键可瞬移至传送门。</td>
     </tr>
     <tr>
       <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
