@@ -156,6 +156,21 @@
 | <img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square&logoColor=white" /> | 动态 NPC (NPC) | <img src="图片链接" width="60"/> | NPC 待机动图展示。根据玩家当前的游戏状态，会触发不同的对话内容。 |
 | <img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square&logoColor=white" /> | 敌人 (Enemy) | <img src="图片链接" width="60"/> | 基础敌对生物，玩家只能通过从上方精准踩踏的方式将其消灭。 |
 | <img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square&logoColor=white" /> | 触电机关 (Trap) | <img src="图片链接" width="60"/> | 动态触电机关，玩家触碰会造成伤害或死亡。 |
+| <img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square&logoColor=white" /> | 地刺 (Spikes) | <img src="图片链接" width="60"/> | 包含基础无色状态和激活状态，激活后的地刺颜色与控制它的按钮颜色对应。 |
+| <img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square&logoColor=white" /> | 交互平台 (Platform) | <img src="图片链接" width="60"/> | 默认呈透明且不可触碰状态，激活后显现特定颜色（与对应按钮颜色一致）方可踩踏。 |
+| <img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square&logoColor=white" /> | 按钮连动大门 (Gate System) | <img src="图片链接" width="60"/> | 踩下按钮后，通过电线传导能量触发大门开启的经典解谜机制。 |
+| <img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square&logoColor=white" /> | 传送门 (Portal) | <img src="图片链接" width="60"/> | 包含未开启和开启两种形态，玩家可通过按键决定要返回到哪一扇已激活的传送门。 |
+| <img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square&logoColor=white" /> | 自动传送点 (Waypoint) | <img src="图片链接" width="60"/> | 包含两种运行模式的动态传送点，玩家触碰即可自动触发传送。 |
+| <img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square&logoColor=white" /> | 木箱 (Wooden Box) | <img src="图片链接" width="60"/> | 基础物理交互道具，可用于推拉挡位或作为垫脚石进行跳跃。 |
+| <img src="https://img.shields.io/badge/-UI-5B3A7D?style=flat-square&logoColor=white" /> | 教学提示 (Tutorial Guide) | <img src="图片链接" width="60"/> | 场景内的透明交互提示UI，只有当玩家走近目标区域时才会平滑显现。 |
+
+### ⏱️ 核心机制：录制系统 (Recording System)
+
+| 机制 (Mechanic) | 状态对比 (State Comparison) | 视觉展示 (Screenshot) | 系统说明 (Description) |
+| :--- | :--- | :---: | :--- |
+| **分身录制**<br><img src="https://img.shields.io/badge/-Time%20Record-5B3A7D?style=flat-square&logoColor=white" /> | **1. 录制前 (Standby)**<br>评估关卡，准备规划路线。 | <img src="录制前图片链接" width="200"/> | 玩家本体处于准备阶段，画面无特殊滤镜或残影效果。 |
+| | **2. 录制中 (Recording)**<br>系统记录玩家当前轨迹。 | <img src="录制中图片链接" width="200"/> | 录制系统启动，视觉上给出明确的录制反馈，实时记录动作序列。 |
+| | **3. 录制后 (Playback)**<br>残影重现，双人配合。 | <img src="录制后图片链接" width="200"/> | 生成过去本体的残影（分身）重现动作，玩家可与自己的过去进行交互解谜。 |
 
 
 
