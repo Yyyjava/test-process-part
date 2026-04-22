@@ -247,33 +247,33 @@
     <tr>
       <td>已开启</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>激活后门上方出现数字，玩家按对应数字键可瞬移至传送门。</td>
+      <td>激活后门上出现数字，玩家按对应数字键可瞬移至传送门。</td>
     </tr>
     <tr>
       <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
       <td rowspan="2" align="center"><b>传送点 (Waypoint)</b></td>
       <td>未触发</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>场景中待激活的保存点/快速位移基点。</td>
+      <td>场景中待激活的存档点。</td>
     </tr>
     <tr>
       <td>自动激活</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>玩家靠近后自动展开的动态反馈形态。</td>
+      <td>玩家靠近后自动激活。</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square" /></td>
       <td align="center"><b>机关 (Trap)</b></td>
       <td>触电动图</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>周期性释放电流的动态障碍物。</td>
+      <td>玩家/分身踩住按钮可释放电流，用于激活最终大门。</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
       <td align="center"><b>可交互平台</b></td>
       <td>透明/着色</td>
       <td align="center"><img src="GIF链接" width="60"/></td>
-      <td>受按钮控制的透明平台，激活后显现对应颜色。</td>
+      <td>受按钮控制的透明平台，激活后平台外框显现按钮对应颜色。</td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
