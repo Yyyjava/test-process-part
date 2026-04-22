@@ -318,6 +318,5 @@
 <tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td>透明/着色</td><td align="center"><img src="GIF链接" width="60"/></td><td>受按钮控制的平台，激活后显现按钮对应颜色。</td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="GIF链接" width="60"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="GIF链接" width="60"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-教学提示-5B3A7D?style=flat-square" /></td><td>动态显现</td><td align="center"><img src="GIF链接" width="60"/></td><td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td></tr>
 </tbody>
 </table>
