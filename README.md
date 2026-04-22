@@ -320,3 +320,15 @@
 <tr><td align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="GIF链接" width="60"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭。</td></tr>
 </tbody>
 </table>
+
+### 🎮 教学系统展示 (Game Entities)
+<table>
+<thead>
+<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><img src="https://img.shields.io/badge/-教学提示-5B3A7D?style=flat-square" /></td><td>动态显现</td><td align="center"><img src="GIF链接" width="60"/></td><td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td></tr>
+</tbody>
+</table>
+
+### 🎮 录制系统展示 (Game Entities)
