@@ -178,3 +178,124 @@
 
 
 
+### 🎮 游戏实体展示 (Game Entities)
+
+<table>
+  <thead>
+    <tr>
+      <th>分类 (Category)</th>
+      <th>名称 (Name)</th>
+      <th>状态/形态 (State)</th>
+      <th>演示 (Image)</th>
+      <th>描述 (Description)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td>
+      <td rowspan="4" align="center"><b>主角 (Player)</b></td>
+      <td>待机动作</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>主角在静止状态下的呼吸循环动画。</td>
+    </tr>
+    <tr>
+      <td>本身动图</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>展示主角的基础移动与核心像素形象。</td>
+    </tr>
+    <tr>
+      <td>跳跃特效</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td>
+    </tr>
+    <tr>
+      <td>死亡动作</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>触碰障碍物或敌对目标时的失败反馈动画。</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td>
+      <td rowspan="2" align="center"><b>NPC</b></td>
+      <td>本身动图</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>非交互状态下的环境待机动画。</td>
+    </tr>
+    <tr>
+      <td>对话触发</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>根据任务进度或玩家状态触发的多样化文本 UI。</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square" /></td>
+      <td rowspan="2" align="center"><b>地刺 (Spikes)</b></td>
+      <td>基础形态</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>标准金属地刺，常驻危险障碍。</td>
+    </tr>
+    <tr>
+      <td>彩色形态</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
+      <td rowspan="2" align="center"><b>传送门 (Portal)</b></td>
+      <td>未开启</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>初始静默形态，无法进行时空位移。</td>
+    </tr>
+    <tr>
+      <td>已开启</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>激活后的动态流光形态，支持双向或单向传送。</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
+      <td rowspan="2" align="center"><b>传送点 (Waypoint)</b></td>
+      <td>未触发</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>场景中待激活的保存点/快速位移基点。</td>
+    </tr>
+    <tr>
+      <td>自动激活</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>玩家靠近后自动展开的动态反馈形态。</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Trap-5B3A7D?style=flat-square" /></td>
+      <td align="center"><b>机关 (Trap)</b></td>
+      <td>触电动图</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>周期性释放电流的动态障碍物。</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
+      <td align="center"><b>可交互平台</b></td>
+      <td>透明/着色</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>受按钮控制的透明平台，激活后显现对应颜色。</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Interactable-5B3A7D?style=flat-square" /></td>
+      <td align="center"><b>按钮与门</b></td>
+      <td>逻辑触发</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>展示按钮、电线与大门开启之间的因果联动。</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td>
+      <td align="center"><b>敌人 (Enemy)</b></td>
+      <td>踩踏击杀</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>巡逻敌对单位，只能通过上方踩踏进行净化。</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-UI-5B3A7D?style=flat-square" /></td>
+      <td align="center"><b>教学提示</b></td>
+      <td>动态显现</td>
+      <td align="center"><img src="GIF链接" width="60"/></td>
+      <td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td>
+    </tr>
+  </tbody>
+</table>
+
