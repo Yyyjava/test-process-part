@@ -138,7 +138,7 @@
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="100"/></td><td>非交互状态下待机。</td></tr>
 <tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="100"/></td><td>NPC交互状态下第二形态。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="100"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
-<tr><td>彩色形态</td><td align="center"><img src="Picture/带颜色地刺.png" width="100"/></td><td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td></tr>
+<tr><td>彩色形态</td><td align="center"><img src="Picture/带颜色地刺.gif" width="100"/></td><td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-传送门%20(Portal)-5B3A7D?style=flat-square" /></td><td>未开启</td><td align="center"><img src="Picture/普通传送门.png" width="100"/></td><td>初始静默形态，无法进行时空位移。</td></tr>
 <tr><td>已开启</td><td align="center"><img src="Picture/传送门开启.png" width="100"/></td><td>激活后门上出现数字，玩家按对应数字键可瞬移。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-存档点%20(Waypoint)-5B3A7D?style=flat-square" /></td><td>未触发</td><td align="center"><img src="Picture/存档点普通.png" width="100"/></td><td>场景中待激活的存档点。</td></tr>
