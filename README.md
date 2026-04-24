@@ -133,8 +133,8 @@
 <tbody>
 <tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="60"/></td><td>主角在静止状态下的呼吸/待机循环动图。</td></tr>
 <tr><td>本身动图</td><td align="center"><img src="Picture/主角移动.gif" width="60"/></td><td>展示主角的基础移动。</td></tr>
-<tr><td>跳跃特效</td><td align="center"><img src="GIF链接" width="60"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
-<tr><td>死亡动作</td><td align="center"><img src="GIF链接" width="60"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
+<tr><td>跳跃特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="60"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
+<tr><td>死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="60"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="GIF链接" width="60"/></td><td>非交互状态下的环境待机动画。</td></tr>
 <tr><td>对话触发</td><td align="center"><img src="GIF链接" width="60"/></td><td>不同状态下会跟主角进行不同的对话。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="GIF链接" width="60"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
