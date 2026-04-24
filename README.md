@@ -131,7 +131,7 @@
 <tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="GIF链接" width="60"/></td><td>主角在静止状态下的呼吸/待机循环动图。</td></tr>
+<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="60"/></td><td>主角在静止状态下的呼吸/待机循环动图。</td></tr>
 <tr><td>本身动图</td><td align="center"><img src="GIF链接" width="60"/></td><td>展示主角的基础移动与核心像素形象。</td></tr>
 <tr><td>跳跃特效</td><td align="center"><img src="GIF链接" width="60"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
 <tr><td>死亡动作</td><td align="center"><img src="GIF链接" width="60"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
