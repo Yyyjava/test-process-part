@@ -164,7 +164,7 @@
 <tbody>
 <tr>
 <td align="left">
-<img src="Picture/录制前.gif" width="850" /><br>
+<img src="Picture录制前.gif" width="850" /><br>
 <img src="https://img.shields.io/badge/-1.%20录制前%20(Pre--Recording)-5B3A7D?style=flat-square" /><br>
 <b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。
 </td>
