@@ -136,17 +136,17 @@
 
 <tbody>
 
-<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td>主角在静止状态下的呼吸/待机循环动图。</td></tr>
+<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td>主角待机状态下2s不动会打哈欠。</td></tr>
 
-<tr><td>本身动图</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>展示主角的基础移动。</td></tr>
+<tr><td>动态拖尾效果</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>主角移动过程中有拖尾效果。</td></tr>
 
-<tr><td>跳跃特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
+<tr><td>跳跃+降落特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
 
 <tr><td>死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
 
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td>非交互状态下待机。</td></tr>
 
-<tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>NPC交互状态下第二形态。</td></tr>
+<tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>NPC在交互状态下展示可爱表情。</td></tr>
 
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
 
@@ -158,13 +158,17 @@
 
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-存档点%20(Waypoint)-5B3A7D?style=flat-square" /></td><td>未触发</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td>场景中待激活的存档点。</td></tr>
 
-<tr><td>自动激活</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td>玩家靠近后自动激活。</td></tr>
+<tr><td>自动激活</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td>玩家靠近后自动激活，死亡后从存档点复活。</td></tr>
 
-<tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td>透明/着色</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>受按钮控制的平台，激活后显现按钮对应颜色。</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td>受按钮控制的平台</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>按下按钮切换平台显示与消失，平台显现状态下有碰撞体积，透明状态下无碰撞体积。</td></tr>
 
 <tr><td align="center"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
 
-<tr><td align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭。</td></tr>
+<tr><td>电流消失大门关闭</td><td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td><td>玩家松开按钮时电流逐渐消失，完全消失后大门关闭。</td></tr>
+
+<tr><td align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
+
+<tr><td>被敌人击杀</td><td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td><td>玩家左右碰到敌人时会被敌人击杀。</td></tr>
 
 </tbody>
 
