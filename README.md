@@ -198,6 +198,6 @@
 <tbody>
 <tr><td align="center"><img src="https://img.shields.io/badge/-平台%20(Platform)-5B3A7D?style=flat-square" /></td><td>平台形态</td><td align="center"><img src="Picture/平台.gif" width="180"/></td><td>平台形态展示。</td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/-地面%20(Ground)-5B3A7D?style=flat-square" /></td><td>地面形态</td><td align="center"><img src="Picture/地面.gif" width="180"/></td><td>地面形态展示。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-Groundwall-5B3A7D?style=flat-square" /></td><td>墙壁形态</td><td align="center"><img src="Picture/Groundwall.gif" width="180"/></td><td>墙壁形态展示。</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Groundwall-5B3A7D?style=flat-square" /></td><td>墙壁形态</td><td align="center"><img src="Picture/墙壁.png" width="180"/></td><td>墙壁形态展示。</td></tr>
 </tbody>
 </table>
