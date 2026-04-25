@@ -132,7 +132,7 @@
 </thead>
 <tbody>
 <tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td><td align="center">Idle Animation</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td align="center">A looping GIF of the player's breathing/idle state while stationary.</td></tr>
-<tr><td align="center">Movement GIF</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td align="center">Demonstrates the player's basic movement.</td></tr>
+<tr><td align="center">Movement</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td align="center">Demonstrates the player's basic movement.</td></tr>
 <tr><td align="center">Jump FX</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td align="center">Visual feedback and particle effects triggered during takeoff and landing.</td></tr>
 <tr><td align="center">Death Animation</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td align="center">Failure feedback animation when the character touches obstacles or hostile targets.</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td align="center">Base Animation</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td align="center">Idle state when not interacting.</td></tr>
