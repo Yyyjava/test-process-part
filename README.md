@@ -244,7 +244,7 @@
 
 <tr>
 <td align="center" style="padding: 20px;">
-<img src="Picture/回放.gif" width="800" /><br><br>
+<img src="Picture/回放中.gif" width="800" /><br><br>
 <img src="https://img.shields.io/badge/-4.%20Replaying-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
 • <b>阶段描述：</b> 分身重复本体在录制中所完成的所有操作，协助本体完成关卡解谜。<br>
