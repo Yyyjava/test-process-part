@@ -162,6 +162,8 @@
 
 <tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td>受按钮控制的平台</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>按下按钮切换平台显示与消失，平台显现状态下有碰撞体积，透明状态下无碰撞体积。</td></tr>
 
+<tr height="0"><td colspan="4" style="padding:0; line-height:0;"></td></tr>
+
 <tr>
   <td rowspan="2" align="center" style="padding: 0;">
     <div style="background-color: white; height: 100%; width: 100%; padding: 10px 5px;">
