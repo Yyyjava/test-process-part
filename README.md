@@ -136,8 +136,8 @@
 <tr><td>动态拖尾效果</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>主角移动过程中有拖尾效果。</td></tr>
 <tr><td>跳跃+降落特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
 <tr><td>死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-分身%20(Phantom)-5B3A7D?style=flat-square" /></td><td>未回放时隐身</td><td align="center"><img src="Picture/分身隐身状态.gif" width="180"/></td><td>在未进行回放时分身为隐身状态。</td></tr>
-<tr><td>回放进行中显形</td><td align="center"><img src="Picture/分身显形.gif" width="180"/></td><td>在回放进行过程中分身显形，有碰撞体积。</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-分身%20(Phantom)-5B3A7D?style=flat-square" /></td><td>未回放时隐身</td><td align="center"><img src="Picture/分身隐身.gif" width="180"/></td><td>分身在未进行回放时为隐身状态。</td></tr>
+<tr><td>回放进行中显形</td><td align="center"><img src="Picture/分身显形.gif" width="180"/></td><td>分身在回放进行过程中显形，有碰撞体积。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td>非交互状态下待机。</td></tr>
 <tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>NPC在交互状态下展示可爱表情。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemies)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
