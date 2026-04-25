@@ -173,7 +173,7 @@
 <tbody>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-KeyPrompt-5B3A7D?style=flat-square" /></td><td>动态显现</td><td align="center"><img src="Picture/教学系统UI.gif" width="180"/></td><td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td></tr>
 <tr><td>NPC/Tp/Signboard上键位提示</td><td align="center"><img src="Picture/其他键位提示.gif" width="180"/></td><td>NPC/Tp/Signboard上键位提示。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-TextPrompt-5B3A7D?style=flat-square" /></td><td>靠近触发</td><td align="center"><img src="Picture/靠近触发文字提示.gif" width="180"/></td><td>玩家靠近触发文字提示。</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-TextPrompt-5B3A7D?style=flat-square" /></td><td>靠近触发</td><td align="center"><img src="Picture/靠近触发提示.gif" width="180"/></td><td>玩家靠近触发文字提示。</td></tr>
 </tbody>
 </table>
 
