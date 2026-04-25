@@ -202,54 +202,68 @@
 </tbody>
 </table>
 
-### 🎮 录制系统展示 (Game Entities)
+### 🎮 录制系统展示 (Recording System)
 
 <table>
-
 <tbody>
-
 <tr>
-
-<td align="center">
-
-<img src="Picture/录制前.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-1.%20录制前%20(Pre--Recording)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。
-
+<td align="center" style="padding: 20px;">
+<img src="Picture/录制前.gif" width="800" /><br><br>
+<img src="https://img.shields.io/badge/-1.%20ReadyToCapture-5B3A7D?style=flat-square" /><br><br>
+<p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
+• <b>阶段描述：</b> 玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。<br>
+• <b>操作轴表现：</b> 此时没有操作轴，玩家可以自由运动。<br>
+• <b>按键指引：</b> 玩家可以按按键 <b>C</b> 开始录制。
+</p>
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center">
-
-<img src="Picture/录制中.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-2.%20录制中%20(Recording)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 动作执行阶段。系统实时捕捉并存储玩家的路径、跳跃高度及按下按钮的精确时间戳。此时画面会有明确的录制视觉反馈。
-
+<td align="center" style="padding: 20px;">
+<img src="Picture/录制中.gif" width="800" /><br><br>
+<img src="https://img.shields.io/badge/-2.%20Capturing-5B3A7D?style=flat-square" /><br><br>
+<p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
+• <b>阶段描述：</b> 玩家的所有操作被录制，系统实时捕捉运动路径与交互动作。<br>
+• <b>操作轴表现：</b> 操作时间轴上有对应操作记录。<br>
+• <b>按键指引：</b> 玩家可以按按键 <b>C</b> 提前结束录制。
+</p>
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center">
-
-<img src="Picture/录制后.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-3.%20录制后%20(Post--Playback)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 时空重演阶段。过去分身（Ghost）自动重复录制的动作，玩家本体需配合分身的动作（如分身踩住按钮，本体穿过开启的大门）完成解谜。
-
+<td align="center" style="padding: 20px;">
+<img src="Picture/录制后.gif" width="800" /><br><br>
+<img src="https://img.shields.io/badge/-3.%20PhantomStandby-5B3A7D?style=flat-square" /><br><br>
+<p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
+• <b>阶段描述：</b> 录制结束，分身出现但处于透明状态，随时准备开始动作回放。<br>
+• <b>操作轴表现：</b> 操作轴上有对应操作记录轨迹。<br>
+• <b>按键指引：</b> 玩家可以按住 <b>R</b> 开始回放动作。
+</p>
 </td>
-
 </tr>
 
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="Picture/回放.gif" width="800" /><br><br>
+<img src="https://img.shields.io/badge/-4.%20Replaying-5B3A7D?style=flat-square" /><br><br>
+<p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
+• <b>阶段描述：</b> 分身重复本体在录制中所完成的所有操作，协助本体完成关卡解谜。<br>
+• <b>操作轴表现：</b> 操作轴变成蓝色，且实时显示当前回放的动作进度。<br>
+• <b>按键指引：</b> 玩家按 <b>R</b> 可以提前结束回放。
+</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="Picture/回放结束.gif" width="800" /><br><br>
+<img src="https://img.shields.io/badge/-5.%20AfterReplaying-5B3A7D?style=flat-square" /><br><br>
+<p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
+• <b>阶段描述：</b> 回放结束，分身变回透明阶段，停留在动作终点或等待指令。<br>
+• <b>操作轴表现：</b> 操作轴上保留上一次操作的完整记录。<br>
+• <b>按键指引：</b> 按住 <b>R</b> 可以重新回放，按 <b>C</b> 可以开始新的录制（覆盖当前记录）。
+</p>
+</td>
+</tr>
 </tbody>
-
 </table>
