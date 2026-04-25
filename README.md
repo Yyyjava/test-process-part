@@ -232,7 +232,7 @@
 
 <tr>
 <td align="center" style="padding: 20px;">
-<img src="Picture/录制后.gif" width="200" /><br><br>
+<img src="Picture/录制后.gif" width="500" /><br><br>
 <img src="https://img.shields.io/badge/-3.%20PhantomStandby-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
 • <b>阶段描述：</b> 录制结束，分身出现但处于透明状态，随时准备开始动作回放。<br>
@@ -256,7 +256,7 @@
 
 <tr>
 <td align="center" style="padding: 20px;">
-<img src="Picture/回放后.gif" width="200" /><br><br>
+<img src="Picture/回放后.gif" width="500" /><br><br>
 <img src="https://img.shields.io/badge/-5.%20AfterReplaying-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
 • <b>阶段描述：</b> 回放结束，分身变回透明阶段，停留在动作终点或等待指令。<br>
