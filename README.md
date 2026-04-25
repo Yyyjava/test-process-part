@@ -198,7 +198,7 @@
 
 
 
-<tr><td rowspan="2" align="center" bgcolor="#FFFFFF"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
+<tr><td rowspan="2" align="center" style="background-color: #FFFFFF !important;"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
 
 
 
@@ -206,7 +206,7 @@
 
 
 
-<tr><td rowspan="2" align="center" bgcolor="#FFFFFF"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
+<tr><td rowspan="2" align="center" style="background-color: #FFFFFF !important;"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
 
 
 
