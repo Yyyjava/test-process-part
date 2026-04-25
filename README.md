@@ -163,28 +163,52 @@
 
 
 ### 🎮 录制系统展示 (Game Entities)
-<table align="center" style="margin: 0 auto; width: 100%; max-width: 800px;">
+<table>
+
 <tbody>
+
 <tr>
-<td align="center" style="padding: 20px;">
-<img src="Picture/录制前.gif" width="100%" /><br><br>
+
+<td align="center">
+
+<img src="Picture/录制前.gif" width="800" /><br>
+
 <img src="https://img.shields.io/badge/-1.%20录制前%20(Pre--Recording)-5B3A7D?style=flat-square" /><br>
-<p align="center"><b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。</p>
+
+<b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。
+
 </td>
+
 </tr>
+
 <tr>
-<td align="center" style="padding: 20px;">
-<img src="Picture/录制中.gif" width="100%" /><br><br>
+
+<td align="center">
+
+<img src="Picture/录制中.gif" width="800" /><br>
+
 <img src="https://img.shields.io/badge/-2.%20录制中%20(Recording)-5B3A7D?style=flat-square" /><br>
-<p align="center"><b>讲解：</b> 动作执行阶段。系统实时捕捉并存储玩家的路径、跳跃高度及按下按钮的精确时间戳。此时画面会有明确的录制视觉反馈。</p>
+
+<b>讲解：</b> 动作执行阶段。系统实时捕捉并存储玩家的路径、跳跃高度及按下按钮的精确时间戳。此时画面会有明确的录制视觉反馈。
+
 </td>
+
 </tr>
+
 <tr>
-<td align="center" style="padding: 20px;">
-<img src="Picture/录制后.gif" width="100%" /><br><br>
+
+<td align="center">
+
+<img src="Picture/录制后.gif" width="800" /><br>
+
 <img src="https://img.shields.io/badge/-3.%20录制后%20(Post--Playback)-5B3A7D?style=flat-square" /><br>
-<p align="center"><b>讲解：</b> 时空重演阶段。过去分身（Ghost）自动重复录制的动作，玩家本体需配合分身的动作（如分身踩住按钮，本体穿过开启的大门）完成解谜。</p>
+
+<b>讲解：</b> 时空重演阶段。过去分身（Ghost）自动重复录制的动作，玩家本体需配合分身的动作（如分身踩住按钮，本体穿过开启的大门）完成解谜。
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
