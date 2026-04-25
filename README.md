@@ -166,9 +166,9 @@
 
 <tr><td>电流消失大门关闭</td><td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td><td>玩家松开按钮时电流逐渐消失，完全消失后大门关闭。</td></tr>
 
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-传送门%20(Portal)-5B3A7D?style=flat-square" /></td><td>未开启</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td>初始静默形态，无法进行时空位移。</td></tr>
 
-<tr><td>被敌人击杀</td><td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td><td>玩家左右碰到敌人时会被敌人击杀。</td></tr>
+<tr><td>已开启</td><td align="center"><img src="Picture/开启传送门.gif" width="180"/></td><td>激活后门上出现数字，玩家按对应数字键可瞬移。</td></tr>
 
 
 
