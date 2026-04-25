@@ -128,7 +128,7 @@
 
 <table>
 <thead>
-<tr><th align="center">Name</th><th align="center">State/Form</th><th align="center">Demo (Image)</th><th align="center">Description</th></tr>
+<tr><th align="center">Name</th><th align="center">State/Form</th><th align="center">Demo (GIF)</th><th align="center">Description</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td><td align="center">Idle Animation</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td align="center">A looping GIF of the player's breathing/idle state while stationary.</td></tr>
