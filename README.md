@@ -136,7 +136,7 @@
 <tr><td align="center">Jump</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td align="center">Visual feedback and particle effects triggered during takeoff and landing.</td></tr>
 <tr><td align="center">Death Animation</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td align="center">Failure feedback animation when the character touches obstacles or hostile targets.</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td align="center">Base Animation</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td align="center">Idle state when not interacting.</td></tr>
-<tr><td align="center">Dialogue Trigger</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td align="center">Secondary form of the NPC during interaction.</td></tr>
+<tr><td align="center">Facial Expression Trigger</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td align="center">Secondary form of the NPC during interaction.</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Spikes-5B3A7D?style=flat-square" /></td><td align="center">Basic Form</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td align="center">Standard metal spikes, serving as permanent hazards.</td></tr>
 <tr><td align="center">Colored Form</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td align="center">Colored spikes controlled by buttons; colors correspond to logic switches.</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Portal-5B3A7D?style=flat-square" /></td><td align="center">Closed</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td align="center">Initial silent form, unable to perform spatial displacement.</td></tr>
@@ -145,7 +145,7 @@
 <tr><td align="center">Auto-Activation</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td align="center">Automatically activates when the player approaches.</td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/-Interactive%20Platform-5B3A7D?style=flat-square" /></td><td align="center">Transparent/Colored</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td align="center">Platform controlled by buttons; displays the button's color once activated.</td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/-Buttons%20&%20Gates-5B3A7D?style=flat-square" /></td><td align="center">Electric Activation</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td align="center">Player/Ghost stands on the button to release current and open the final gate.</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td><td align="center">Stomp Kill</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td align="center">Patrolling units that player/ghosts can only defeat by stomping from above.</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td><td align="center">Jump to Kill</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td align="center">Patrolling units that player/ghosts can only defeat by stomping from above.</td></tr>
 </tbody>
 </table>
 
