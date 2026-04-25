@@ -124,91 +124,66 @@
 
 
 
-### 🎮 游戏实体展示 (Game Entities)
+### 🎮 Game Entities
 
 <table>
 <thead>
-<tr><th align="center">名称 (Name)</th><th align="center">状态/形态 (State)</th><th align="center">演示 (Image)</th><th align="center">描述 (Description)</th></tr>
+<tr><th align="center">Name</th><th align="center">State/Form</th><th align="center">Demo (Image)</th><th align="center">Description</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td align="center">待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td align="center">主角在静止状态下的呼吸/待机循环动图。</td></tr>
-<tr><td align="center">本身动图</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td align="center">展示主角的基础移动。</td></tr>
-<tr><td align="center">跳跃特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td align="center">起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
-<tr><td align="center">死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td align="center">角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td align="center">本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td align="center">非交互状态下待机。</td></tr>
-<tr><td align="center">对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td align="center">NPC交互状态下第二形态。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" /></td><td align="center">基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td align="center">标准金属地刺，常驻危险障碍。</td></tr>
-<tr><td align="center">彩色形态</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td align="center">受按钮控制的彩色地刺，颜色对应逻辑开关。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-传送门%20(Portal)-5B3A7D?style=flat-square" /></td><td align="center">未开启</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td align="center">初始静默形态，无法进行时空位移。</td></tr>
-<tr><td align="center">已开启</td><td align="center"><img src="Picture/开启传送门.gif" width="180"/></td><td align="center">激活后门上出现数字，玩家按对应数字键可瞬移。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-存档点%20(Waypoint)-5B3A7D?style=flat-square" /></td><td align="center">未触发</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td align="center">场景中待激活的存档点。</td></tr>
-<tr><td align="center">自动激活</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td align="center">玩家靠近后自动激活。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td align="center">透明/着色</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td align="center">受按钮控制的平台，激活后显现按钮对应颜色。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td align="center">触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td align="center">玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td align="center">踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td align="center">巡逻单位，玩家/分身只能通过上方踩踏消灭。</td></tr>
+<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td><td align="center">Idle Animation</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td align="center">A looping GIF of the player's breathing/idle state while stationary.</td></tr>
+<tr><td align="center">Movement GIF</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td align="center">Demonstrates the player's basic movement.</td></tr>
+<tr><td align="center">Jump FX</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td align="center">Visual feedback and particle effects triggered during takeoff and landing.</td></tr>
+<tr><td align="center">Death Animation</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td align="center">Failure feedback animation when the character touches obstacles or hostile targets.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td align="center">Base Animation</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td align="center">Idle state when not interacting.</td></tr>
+<tr><td align="center">Dialogue Trigger</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td align="center">Secondary form of the NPC during interaction.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Spikes-5B3A7D?style=flat-square" /></td><td align="center">Basic Form</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td align="center">Standard metal spikes, serving as permanent hazards.</td></tr>
+<tr><td align="center">Colored Form</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td align="center">Colored spikes controlled by buttons; colors correspond to logic switches.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Portal-5B3A7D?style=flat-square" /></td><td align="center">Closed</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td align="center">Initial silent form, unable to perform spatial displacement.</td></tr>
+<tr><td align="center">Opened</td><td align="center"><img src="Picture/开启传送门.gif" width="180"/></td><td align="center">Once activated, numbers appear; players press the corresponding key to teleport.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Waypoint-5B3A7D?style=flat-square" /></td><td align="center">Inactive</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td align="center">A waypoint in the scene waiting to be activated.</td></tr>
+<tr><td align="center">Auto-Activation</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td align="center">Automatically activates when the player approaches.</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Interactive%20Platform-5B3A7D?style=flat-square" /></td><td align="center">Transparent/Colored</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td align="center">Platform controlled by buttons; displays the button's color once activated.</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Buttons%20&%20Gates-5B3A7D?style=flat-square" /></td><td align="center">Electric Activation</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td align="center">Player/Ghost stands on the button to release current and open the final gate.</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td><td align="center">Stomp Kill</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td align="center">Patrolling units that player/ghosts can only defeat by stomping from above.</td></tr>
 </tbody>
 </table>
 
-### 🎮 教学系统展示 (Instruction System)
+### 🎮 Instruction System
 
 <table>
 <thead>
-<tr><th align="center">名称 (Name)</th><th align="center">状态/形态 (State)</th><th align="center">演示 (Image)</th><th align="center">描述 (Description)</th></tr>
+<tr><th align="center">Name</th><th align="center">State/Form</th><th align="center">Demo (Image)</th><th align="center">Description</th></tr>
 </thead>
 <tbody>
-<tr><td align="center"><img src="https://img.shields.io/badge/-教学提示-5B3A7D?style=flat-square" /></td><td align="center">动态显现</td><td align="center"><img src="Picture/教学系统UI.gif" width="180"/></td><td align="center">隐藏 UI，仅当玩家走近特定交互物时浮现。</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/-Tutorial%20Tips-5B3A7D?style=flat-square" /></td><td align="center">Dynamic Display</td><td align="center"><img src="Picture/教学系统UI.gif" width="180"/></td><td align="center">Hidden UI that only appears when the player approaches specific interactive objects.</td></tr>
 </tbody>
 </table>
 
+### 🎮 Recording System
 
-
-### 🎮 录制系统展示 (Game Entities)
 <table>
-
 <tbody>
-
 <tr>
-
 <td align="center">
-
 <img src="Picture/录制前.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-1.%20录制前%20(Pre--Recording)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 初始规划阶段。玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。
-
+<img src="https://img.shields.io/badge/-1.%20Pre--Recording-5B3A7D?style=flat-square" /><br>
+<b>Explanation:</b> Initial planning phase. The player observes the level terrain and mechanism distribution while the system is on standby to record movement and interaction logic.
 </td>
-
 </tr>
-
 <tr>
-
 <td align="center">
-
 <img src="Picture/录制中.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-2.%20录制中%20(Recording)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 动作执行阶段。系统实时捕捉并存储玩家的路径、跳跃高度及按下按钮的精确时间戳。此时画面会有明确的录制视觉反馈。
-
+<img src="https://img.shields.io/badge/-2.%20Recording-5B3A7D?style=flat-square" /><br>
+<b>Explanation:</b> Action execution phase. The system captures and stores the player's path, jump height, and exact button timestamps in real-time with visual feedback.
 </td>
-
 </tr>
-
 <tr>
-
 <td align="center">
-
 <img src="Picture/录制后.gif" width="800" /><br>
-
-<img src="https://img.shields.io/badge/-3.%20录制后%20(Post--Playback)-5B3A7D?style=flat-square" /><br>
-
-<b>讲解：</b> 时空重演阶段。过去分身（Ghost）自动重复录制的动作，玩家本体需配合分身的动作（如分身踩住按钮，本体穿过开启的大门）完成解谜。
-
+<img src="https://img.shields.io/badge/-3.%20Post--Playback-5B3A7D?style=flat-square" /><br>
+<b>Explanation:</b> Spatiotemporal replay phase. Past ghosts automatically repeat recorded actions; the player must cooperate with the ghost (e.g., ghost holds a button while the player passes through the gate) to solve puzzles.
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
