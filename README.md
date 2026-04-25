@@ -127,110 +127,97 @@
 ### 🎮 游戏实体展示 (Game Entities)
 
 <table>
+
+
+
 <thead>
-<tr><th align="center">Name</th><th align="center">State/Form</th><th align="center">Demo (Image)</th><th align="center">Description</th></tr>
+
+
+
+<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
+
+
+
 </thead>
+
+
+
 <tbody>
-<tr>
-<td colspan="4" style="padding: 0;">
-  <table width="100%" border="0" style="border-collapse: collapse; background-color: white;">
-    <tr>
-      <td rowspan="4" align="center" width="20%"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td>
-      <td align="center" width="20%">Idle Animation</td>
-      <td align="center" width="30%"><img src="Picture/主角待机.gif" width="180"/></td>
-      <td align="center">The player yawns if stationary for more than 2 seconds.</td>
-    </tr>
-    <tr>
-      <td align="center">Movement Trail</td>
-      <td align="center"><img src="Picture/主角移动.gif" width="180"/></td>
-      <td align="center">Motion trail effects appear while the player is moving.</td>
-    </tr>
-    <tr>
-      <td align="center">Jump & Land FX</td>
-      <td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td>
-      <td align="center">Visual feedback and particle effects triggered during takeoff and landing.</td>
-    </tr>
-    <tr>
-      <td align="center">Death Animation</td>
-      <td align="center"><img src="Picture/主角死亡.gif" width="180"/></td>
-      <td align="center">Failure feedback animation when touching obstacles or enemies.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td>
-      <td align="center">Base Animation</td>
-      <td align="center"><img src="Picture/NPC待机.gif" width="180"/></td>
-      <td align="center">Idle state when not interacting.</td>
-    </tr>
-    <tr>
-      <td align="center">Dialogue Trigger</td>
-      <td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td>
-      <td align="center">NPC shows cute expressions during interaction.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Spikes-5B3A7D?style=flat-square" /></td>
-      <td align="center">Basic Form</td>
-      <td align="center"><img src="Picture/普通地刺.gif" width="180"/></td>
-      <td align="center">Standard metal spikes acting as permanent hazards.</td>
-    </tr>
-    <tr>
-      <td align="center">Colored Form</td>
-      <td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td>
-      <td align="center">Color-coded spikes controlled by buttons corresponding to logic switches.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Portal-5B3A7D?style=flat-square" /></td>
-      <td align="center">Inactive</td>
-      <td align="center"><img src="Picture/普通传送门.gif" width="180"/></td>
-      <td align="center">Initial silent form, unable to perform teleportation.</td>
-    </tr>
-    <tr>
-      <td align="center">Active</td>
-      <td align="center"><img src="Picture/开启传送门.gif" width="180"/></td>
-      <td align="center">Once activated, press the corresponding number key to teleport.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Waypoint-5B3A7D?style=flat-square" /></td>
-      <td align="center">Inactive</td>
-      <td align="center"><img src="Picture/普通存档点.gif" width="180"/></td>
-      <td align="center">A checkpoint in the scene waiting to be triggered.</td>
-    </tr>
-    <tr>
-      <td align="center">Auto-Activation</td>
-      <td align="center"><img src="Picture/存档点开启.gif" width="180"/></td>
-      <td align="center">Automatically activates when approached; respawn here after death.</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-Interactive%20Platform-5B3A7D?style=flat-square" /></td>
-      <td align="center">Button Controlled</td>
-      <td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td>
-      <td align="center">Buttons toggle visibility. Has collision when visible; no collision when transparent.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Buttons%20&%20Gates-5B3A7D?style=flat-square" /></td>
-      <td align="center">Electric Activation</td>
-      <td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td>
-      <td align="center">Player/Ghost stands on the button to release current and open the gate.</td>
-    </tr>
-    <tr>
-      <td align="center">Gate Closing</td>
-      <td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td>
-      <td align="center">Current fades when the button is released, closing the gate completely.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Enemy-5B3A7D?style=flat-square" /></td>
-      <td align="center">Stomp Kill</td>
-      <td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td>
-      <td align="center">Patrolling units defeated by stomping, which also grants a higher jump.</td>
-    </tr>
-    <tr>
-      <td align="center">Defeat by Enemy</td>
-      <td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td>
-      <td align="center">The player is killed when colliding with an enemy from the side.</td>
-    </tr>
-  </table>
-</td>
-</tr>
+
+
+
+<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td>主角待机状态下2s不动会打哈欠。</td></tr>
+
+
+
+<tr><td>动态拖尾效果</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>主角移动过程中有拖尾效果。</td></tr>
+
+
+
+<tr><td>跳跃+降落特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
+
+
+
+<tr><td>死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td>非交互状态下待机。</td></tr>
+
+
+
+<tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>NPC在交互状态下展示可爱表情。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spikes)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
+
+
+
+<tr><td>彩色形态</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-传送门%20(Portal)-5B3A7D?style=flat-square" /></td><td>未开启</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td>初始静默形态，无法进行时空位移。</td></tr>
+
+
+
+<tr><td>已开启</td><td align="center"><img src="Picture/开启传送门.gif" width="180"/></td><td>激活后门上出现数字，玩家按对应数字键可瞬移。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-存档点%20(Waypoint)-5B3A7D?style=flat-square" /></td><td>未触发</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td>场景中待激活的存档点。</td></tr>
+
+
+
+<tr><td>自动激活</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td>玩家靠近后自动激活，死亡后从存档点复活。</td></tr>
+
+
+
+<tr><td align="center"><img src="https://img.shields.io/badge/-可交互平台-5B3A7D?style=flat-square" /></td><td>受按钮控制的平台</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>按下按钮切换平台显示与消失，平台显现状态下有碰撞体积，透明状态下无碰撞体积。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-按钮与门-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
+
+
+
+<tr><td>电流消失大门关闭</td><td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td><td>玩家松开按钮时电流逐渐消失，完全消失后大门关闭。</td></tr>
+
+
+
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemy)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
+
+
+
+<tr><td>被敌人击杀</td><td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td><td>玩家左右碰到敌人时会被敌人击杀。</td></tr>
+
+
+
 </tbody>
+
+
+
 </table>
 
 
