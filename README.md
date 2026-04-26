@@ -152,11 +152,12 @@
 <tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
 </thead>
 <tbody>
+<tr><td align="center"><img src="https://img.shields.io/badge/-箱子%20(Box)-5B3A7D?style=flat-square" /></td><td>有真实碰撞体积、可推动</td><td align="center"><img src="Picture/推动箱子.gif" width="180"/></td><td>箱子可推动，符合真实物理情况。</td></tr>
+  
 <tr height="0" style="line-height:0;">
     <td colspan="4" style="padding:0; margin:0; font-size:0; border:none;">&nbsp;</td>
 </tr>
   
-<tr><td align="center"><img src="https://img.shields.io/badge/-箱子%20(Box)-5B3A7D?style=flat-square" /></td><td>有真实碰撞体积、可推动</td><td align="center"><img src="Picture/推动箱子.gif" width="180"/></td><td>箱子可推动，符合真实物理情况。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-通关的大门%20(Portal)-5B3A7D?style=flat-square" /></td><td>老版本开启方式</td><td align="center"><img src="Picture/老版本大门.gif" width="180"/></td><td>老版本通过同时踩住两个按钮开启。</td></tr>
 <tr><td>新版本开启方式</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>通过踩住按钮激活电流开启。</td></tr>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spike)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
