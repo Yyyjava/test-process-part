@@ -145,6 +145,10 @@
 </tbody>
 </table>
 
+<tr style="display:none; visibility:hidden; height:0;">
+    <td colspan="4"></td>
+</tr>
+
 #### 2. Interactables
 <table>
 <thead>
