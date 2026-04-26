@@ -129,7 +129,7 @@
 #### 1. Character
 <table>
 <thead>
-<tr><th>Name</th><th>State / Form</th><th>Image</th><th>Description</th></tr>
+<tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td><td align="center">Idle Animation</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td align="center">The player yawns if idle for 2 seconds.</td></tr>
@@ -145,11 +145,10 @@
 </tbody>
 </table>
 
-
 #### 2. Interactables
 <table>
 <thead>
-<tr><th>Name</th><th>State / Form</th><th>Image</th><th>Description</th></tr>
+<tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Portal-5B3A7D?style=flat-square" /></td><td align="center">Legacy Activation</td><td align="center"><img src="Picture/老版本大门.gif" width="180"/></td><td align="center">Opened by standing on two buttons simultaneously in older versions.</td></tr>
@@ -169,7 +168,7 @@
 #### 3. Prompts
 <table>
 <thead>
-<tr><th>Name</th><th>State / Form</th><th>Image</th><th>Description</th></tr>
+<tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-KeyPrompt-5B3A7D?style=flat-square" /></td><td align="center">Dynamic Fade</td><td align="center"><img src="Picture/教学系统UI.gif" width="180"/></td><td align="center">Hidden UI that surfaces only when the player approaches specific interactive objects.</td></tr>
@@ -181,7 +180,7 @@
 #### 4. Systems
 <table>
 <thead>
-<tr><th>Name</th><th>State / Form</th><th>Image</th><th>Description</th></tr>
+<tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Button--Wire--Portal%20System-5B3A7D?style=flat-square" /></td><td align="center">Electrical Activation</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td align="center">Player/Phantom steps on the button to release current and activate the final gate.</td></tr>
@@ -195,7 +194,6 @@
 <tr height="0" style="line-height:0;">
     <td colspan="3" style="padding:0; margin:0; font-size:0;">&nbsp;</td>
 </tr>
-  
 <tr><td align="center"><img src="https://img.shields.io/badge/-Button--Platform%20System-5B3A7D?style=flat-square" /></td><td align="center">Button-Controlled Platform</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td align="center">Press the button to toggle platform visibility; the platform gains collision when visible.</td></tr>
 </tbody>
 </table>
@@ -203,7 +201,7 @@
 #### 5. Terrain
 <table>
 <thead>
-<tr><th>Name</th><th>State / Form</th><th>Image</th><th>Description</th></tr>
+<tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
 <tbody>
 <tr><td align="center"><img src="https://img.shields.io/badge/-Platform-5B3A7D?style=flat-square" /></td><td align="center">Platform Form</td><td align="center"><img src="Picture/平台.gif" width="180"/></td><td align="center">Visual representation of the floating platforms.</td></tr>
