@@ -127,7 +127,7 @@
 ### 🎮 Game Entities Exhibition
 
 #### 1. Character
-<table>
+<table width="100%">
 <thead>
 <tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
@@ -146,7 +146,7 @@
 </table>
 
 #### 2. Interactables
-<table>
+<table width="100%">
 <thead>
 <tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
@@ -166,7 +166,7 @@
 </table>
 
 #### 3. Prompts
-<table>
+<table width="100%">
 <thead>
 <tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
@@ -178,7 +178,7 @@
 </table>
 
 #### 4. Systems
-<table>
+<table width="100%">
 <thead>
 <tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
@@ -199,7 +199,7 @@
 </table>
 
 #### 5. Terrain
-<table>
+<table width="100%">
 <thead>
 <tr><th width="15%">Name</th><th width="20%">State / Form</th><th width="25%">Image</th><th width="40%">Description</th></tr>
 </thead>
