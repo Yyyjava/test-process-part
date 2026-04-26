@@ -124,96 +124,44 @@
 
 
 
-### 🎮 游戏实体展示 (Game Entities)
+### 🎮 Game Entities
 
 #### 1. Character
 <table>
 <thead>
-<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
+<tr><th>Name</th><th>State/Form</th><th>Demo (Image)</th><th>Description</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-主角%20(Player)-5B3A7D?style=flat-square" /></td><td>待机动作</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td>主角待机状态下2s不动会打哈欠。</td></tr>
-<tr><td>动态拖尾效果</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>主角移动过程中有拖尾效果。</td></tr>
-<tr><td>跳跃+降落特效</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>起跳与落地瞬间触发的视觉反馈及粒子特效。</td></tr>
-<tr><td>死亡动作</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td>角色触碰障碍物或敌对目标时的失败反馈动画。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-分身%20(Phantom)-5B3A7D?style=flat-square" /></td><td>未回放时隐身</td><td align="center"><img src="Picture/分身隐身.gif" width="180"/></td><td>分身在未进行回放时为隐身状态。</td></tr>
-<tr><td>回放进行中显形</td><td align="center"><img src="Picture/分身显形.gif" width="180"/></td><td>分身在回放进行过程中显形，有碰撞体积。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>本身动图</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td>非交互状态下待机。</td></tr>
-<tr><td>对话触发</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>NPC在交互状态下展示可爱表情。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-敌人%20(Enemies)-5B3A7D?style=flat-square" /></td><td>踩踏击杀</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>巡逻单位，玩家/分身只能通过上方踩踏消灭，踩踏敌人可以使自身跳得更高。</td></tr>
-<tr><td>被敌人击杀</td><td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td><td>玩家左右碰到敌人时会被敌人击杀。</td></tr>
+<tr><td rowspan="4" align="center"><img src="https://img.shields.io/badge/-Player-5B3A7D?style=flat-square" /></td><td>Idle Animation</td><td align="center"><img src="Picture/主角待机.gif" width="180"/></td><td>The player yawns if stationary for more than 2 seconds.</td></tr>
+<tr><td>Dynamic Trail Effect</td><td align="center"><img src="Picture/主角移动.gif" width="180"/></td><td>A dynamic trail effect appears while the player moves.</td></tr>
+<tr><td>Jump & Land FX</td><td align="center"><img src="Picture/主角跳跃动图.gif" width="180"/></td><td>Visual feedback and particle effects triggered during takeoff and landing.</td></tr>
+<tr><td>Death Animation</td><td align="center"><img src="Picture/主角死亡.gif" width="180"/></td><td>Failure animation when touching obstacles or hostile targets.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Phantom-5B3A7D?style=flat-square" /></td><td>Invisible when Idle</td><td align="center"><img src="Picture/分身隐身.gif" width="180"/></td><td>The Phantom remains invisible when no playback is active.</td></tr>
+<tr><td>Visible during Playback</td><td align="center"><img src="Picture/分身显形.gif" width="180"/></td><td>The Phantom becomes visible and gains a collision box during playback.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-NPC-5B3A7D?style=flat-square" /></td><td>Base Animation</td><td align="center"><img src="Picture/NPC待机.gif" width="180"/></td><td>Idle state when not interacting.</td></tr>
+<tr><td>Dialogue Trigger</td><td align="center"><img src="Picture/NPC第二形态.gif" width="180"/></td><td>The NPC displays cute expressions during interaction.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Enemies-5B3A7D?style=flat-square" /></td><td>Stomp Kill</td><td align="center"><img src="Picture/消灭敌人.gif" width="180"/></td><td>Patrolling units defeated by stomping from above, which also grants a higher jump.</td></tr>
+<tr><td>Defeated by Enemy</td><td align="center"><img src="Picture/被敌人击杀.gif" width="180"/></td><td>The player is killed when colliding with an enemy from the side.</td></tr>
 </tbody>
 </table>
-
 
 #### 2. Interactables
 <table>
 <thead>
-<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
+<tr><th>Name</th><th>State/Form</th><th>Demo (Image)</th><th>Description</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-通关的大门%20(Portal)-5B3A7D?style=flat-square" /></td><td>老版本开启方式</td><td align="center"><img src="Picture/老版本大门.gif" width="180"/></td><td>老版本通过同时踩住两个按钮开启。</td></tr>
-<tr><td>新版本开启方式</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>通过踩住按钮激活电流开启。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-地刺%20(Spike)-5B3A7D?style=flat-square" /></td><td>基础形态</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td>标准金属地刺，常驻危险障碍。</td></tr>
-<tr><td>彩色形态</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td>受按钮控制的彩色地刺，颜色对应逻辑开关。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-存档点%20(Checkpoint)-5B3A7D?style=flat-square" /></td><td>未触发</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td>场景中待激活的存档点。</td></tr>
-<tr><td>自动激活</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td>玩家靠近后自动激活，死亡后从存档点复活。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-公告板%20(Signboard)-5B3A7D?style=flat-square" /></td><td>靠近时可按E键交互</td><td align="center"><img src="Picture/公告板交互.gif" width="180"/></td><td>靠近时可按E键交互。</td></tr>
-<tr><td>交互可详细阅读</td><td align="center"><img src="Picture/公告板内容.gif" width="180"/></td><td>交互可详细阅读其中内容。</td></tr>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-传送门%20(Teleport%20Point)-5B3A7D?style=flat-square" /></td><td>未开启</td><td align="center"><img src="Picture/普通传送门.gif" width="180"/></td><td>初始静默形态，无法进行时空位移。</td></tr>
-<tr><td>已开启</td><td align="center"><img src="Picture/开启传送门.gif" width="180"/></td><td>激活后门上出现数字，玩家按对应数字键可瞬移。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-箱子%20(Box)-5B3A7D?style=flat-square" /></td><td>有真实碰撞体积、可推动</td><td align="center"><img src="Picture/推动箱子.gif" width="180"/></td><td>箱子可推动，符合真实物理情况。</td></tr>
-</tbody>
-</table>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Portal-5B3A7D?style=flat-square" /></td><td>Old Version Logic</td><td align="center"><img src="Picture/老版本大门.gif" width="180"/></td><td>In the old version, the gate opens by stepping on two buttons simultaneously.</td></tr>
+<tr><td>New Version Logic</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>The gate opens by activating current via a button.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Spike-5B3A7D?style=flat-square" /></td><td>Basic Form</td><td align="center"><img src="Picture/普通地刺.gif" width="180"/></td><td>Standard metal spikes acting as permanent hazards.</td></tr>
+<tr><td>Colored Form</td><td align="center"><img src="Picture/带颜色地刺.gif" width="180"/></td><td>Color-coded spikes controlled by buttons corresponding to logic switches.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Checkpoint-5B3A7D?style=flat-square" /></td><td>Inactive</td><td align="center"><img src="Picture/普通存档点.gif" width="180"/></td><td>A checkpoint in the scene waiting to be activated.</td></tr>
+<tr><td>Auto-Activation</td><td align="center"><img src="Picture/存档点开启.gif" width="180"/></td><td>Automatically activates when approached; respawn here after death.</td></tr>
+<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-Signboard-5B3A7D?style=flat-square" /></td><td>Proximity Prompt</td><td align="center"><img src="Picture/公告板交互.gif" width="180"/></td><td>Press the 'E' key to interact when nearby.</td></tr>
+<tr><td>Detailed Reading</td><td align="center"><img src="Picture/公告板内容.gif" width="180"/></td><td>Content can be read in detail after interacting.</td></tr>
+<tr><td rowspan="2" align="center"><img src="
 
-#### 3. Prompts
-<table>
-<thead>
-<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
-</thead>
-<tbody>
-
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-KeyPrompt-5B3A7D?style=flat-square" /></td><td>动态显现</td><td align="center"><img src="Picture/教学系统UI.gif" width="180"/></td><td>隐藏 UI，仅当玩家走近特定交互物时浮现。</td></tr>
-<tr><td>NPC/Tp/Signboard上键位提示</td><td align="center"><img src="Picture/其他键位提示.gif" width="180"/></td><td>NPC/Tp/Signboard上键位提示。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-TextPrompt-5B3A7D?style=flat-square" /></td><td>靠近触发</td><td align="center"><img src="Picture/靠近触发提示.gif" width="180"/></td><td>玩家靠近触发文字提示。</td></tr>
-</tbody>
-</table>
-
-#### 4. Systems
-<table>
-<thead>
-<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
-</thead>
-<tbody>
-<tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-按钮与门%20(Button--Wire--Portal%20System)-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
-<tr><td>电流消失大门关闭</td><td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td><td>玩家松开按钮时电流逐渐消失，完全消失后大门关闭。</td></tr>
-<tr>
-    <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-按钮与刺%20(Button--Spikes%20System)-5B3A7D?style=flat-square" /></td>
-    <td>受按钮控制的地刺</td>
-    <td align="center"><img src="Picture/按钮地刺.gif" width="180"/></td>
-    <td>按下按钮切换地刺显示与消失，地刺显现状态下玩家碰到会死亡。</td>
-</tr>
-<tr height="0" style="line-height:0;">
-    <td colspan="3" style="padding:0; margin:0; font-size:0;">&nbsp;</td>
-</tr>
-  
-<tr><td align="center"><img src="https://img.shields.io/badge/-按钮与平台%20(Button--Platform%20System)-5B3A7D?style=flat-square" /></td><td>受按钮控制的平台</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>按下按钮切换平台显示与消失，平台显现状态下有碰撞体积。</td></tr>
-</tbody>
-</table>
-
-#### 5. Terrain
-<table>
-<thead>
-<tr><th>名称 (Name)</th><th>状态/形态 (State)</th><th>演示 (Image)</th><th>描述 (Description)</th></tr>
-</thead>
-<tbody>
-<tr><td align="center"><img src="https://img.shields.io/badge/-平台%20(Platform)-5B3A7D?style=flat-square" /></td><td>平台形态</td><td align="center"><img src="Picture/平台.gif" width="180"/></td><td>平台形态展示。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-地面%20(Ground)-5B3A7D?style=flat-square" /></td><td>地面形态</td><td align="center"><img src="Picture/地面.gif" width="180"/></td><td>地面形态展示。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-Groundwall-5B3A7D?style=flat-square" /></td><td>墙壁形态</td><td align="center"><img src="Picture/Wall.png" width="50"/></td><td>墙壁形态展示。</td></tr>
-</tbody>
-</table>
-
-### 🎮 录制系统展示 (Recording System)
+### 🎮 Recording System
 
 <table>
 <tbody>
@@ -222,9 +170,9 @@
 <img src="Picture/录制前.gif" width="800" /><br><br>
 <img src="https://img.shields.io/badge/-1.%20ReadyToCapture-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
-• <b>阶段描述：</b> 玩家观察关卡地形与机关分布，系统处于待命状态，准备记录本体的位移与交互逻辑。<br>
-• <b>操作轴表现：</b> 此时没有操作轴，玩家可以自由运动。<br>
-• <b>按键指引：</b> 玩家可以按按键 <b>C</b> 开始录制。
+• <b>Phase Description:</b> The player observes the level terrain and mechanism distribution. The system is on standby, ready to record movement and interaction logic.<br>
+• <b>Timeline State:</b> No timeline is displayed; the player moves freely.<br>
+• <b>Input Guide:</b> Press the <b>C</b> key to start recording.
 </p>
 </td>
 </tr>
@@ -234,9 +182,9 @@
 <img src="Picture/录制中.gif" width="800" /><br><br>
 <img src="https://img.shields.io/badge/-2.%20Capturing-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
-• <b>阶段描述：</b> 玩家的所有操作被录制，系统实时捕捉运动路径与交互动作。<br>
-• <b>操作轴表现：</b> 操作时间轴上有对应操作记录。<br>
-• <b>按键指引：</b> 玩家可以按按键 <b>C</b> 提前结束录制。
+• <b>Phase Description:</b> All player actions are being recorded. The system captures movement paths and interactive actions in real-time.<br>
+• <b>Timeline State:</b> Inputs are recorded and displayed on the timeline.<br>
+• <b>Input Guide:</b> Press the <b>C</b> key to end recording early.
 </p>
 </td>
 </tr>
@@ -246,9 +194,9 @@
 <img src="Picture/录制后.gif" width="500" /><br><br>
 <img src="https://img.shields.io/badge/-3.%20PhantomStandby-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
-• <b>阶段描述：</b> 录制结束，分身出现但处于透明状态，随时准备开始动作回放。<br>
-• <b>操作轴表现：</b> 操作轴上有对应操作记录轨迹。<br>
-• <b>按键指引：</b> 玩家可以按住 <b>R</b> 开始回放动作。
+• <b>Phase Description:</b> Recording ended. The Phantom appears in a transparent state, ready to begin action playback.<br>
+• <b>Timeline State:</b> The timeline displays the recorded action data.<br>
+• <b>Input Guide:</b> Hold the <b>R</b> key to start action playback.
 </p>
 </td>
 </tr>
@@ -258,9 +206,9 @@
 <img src="Picture/回放中.gif" width="800" /><br><br>
 <img src="https://img.shields.io/badge/-4.%20PhantomAwakens-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
-• <b>阶段描述：</b> 分身重复本体在录制中所完成的所有操作，协助本体完成关卡解谜。<br>
-• <b>操作轴表现：</b> 操作轴变成蓝色，且实时显示当前回放的动作进度。<br>
-• <b>按键指引：</b> 玩家按 <b>R</b> 可以提前结束回放。
+• <b>Phase Description:</b> The Phantom repeats all actions performed during recording to assist the player in solving puzzles.<br>
+• <b>Timeline State:</b> The timeline turns blue and displays the current playback progress in real-time.<br>
+• <b>Input Guide:</b> Press the <b>R</b> key to end playback early.
 </p>
 </td>
 </tr>
@@ -270,9 +218,9 @@
 <img src="Picture/回放后.gif" width="500" /><br><br>
 <img src="https://img.shields.io/badge/-5.%20PhantomStandby-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
-• <b>阶段描述：</b> 回放结束，分身变回透明阶段，停留在动作终点或等待指令。<br>
-• <b>操作轴表现：</b> 操作轴上保留上一次操作的完整记录。<br>
-• <b>按键指引：</b> 按住 <b>R</b> 可以重新回放，按 <b>C</b> 可以开始新的录制（覆盖当前记录）。
+• <b>Phase Description:</b> Playback ended. The Phantom returns to a transparent state, remaining at the end point or waiting for instructions.<br>
+• <b>Timeline State:</b> The timeline retains the data from the last operation.<br>
+• <b>Input Guide:</b> Hold <b>R</b> to replay, or press <b>C</b> to start a new recording (overwriting the current record).
 </p>
 </td>
 </tr>
