@@ -145,8 +145,8 @@
 </tbody>
 </table>
 
-<tr style="display:none; visibility:hidden; height:0;">
-    <td colspan="4"></td>
+<tr height="1px" style="line-height:1px;">
+    <td colspan="4" style="padding:0; margin:0; font-size:1px;">&nbsp;</td>
 </tr>
 
 #### 2. Interactables
