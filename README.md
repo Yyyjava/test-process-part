@@ -187,7 +187,15 @@
 <tbody>
 <tr><td rowspan="2" align="center"><img src="https://img.shields.io/badge/-按钮与门%20(Button--Wire--Portal%20System)-5B3A7D?style=flat-square" /></td><td>触电开启</td><td align="center"><img src="Picture/电流打开大门.gif" width="180"/></td><td>玩家/分身踩住按钮释放电流，激活最终大门。</td></tr>
 <tr><td>电流消失大门关闭</td><td align="center"><img src="Picture/电流消失时大门关闭.gif" width="180"/></td><td>玩家松开按钮时电流逐渐消失，完全消失后大门关闭。</td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/-按钮与刺%20(Button--Spikes%20System)-5B3A7D?style=flat-square" /></td><td>受按钮控制的地刺</td><td align="center"><img src="Picture/按钮地刺.gif" width="180"/></td><td>按下按钮切换地刺显示与消失，地刺显现状态下玩家碰到会死亡。</td></tr>
+<tr>
+    <td rowspan="2" align="center"><img src="https://img.shields.io/badge/-按钮与刺%20(Button--Spikes%20System)-5B3A7D?style=flat-square" /></td>
+    <td>受按钮控制的地刺</td>
+    <td align="center"><img src="Picture/按钮地刺.gif" width="180"/></td>
+    <td>按下按钮切换地刺显示与消失，地刺显现状态下玩家碰到会死亡。</td>
+</tr>
+<tr height="0" style="line-height:0;">
+    <td colspan="3" style="padding:0; margin:0; font-size:0;">&nbsp;</td>
+</tr>
   
 <tr><td align="center"><img src="https://img.shields.io/badge/-按钮与平台%20(Button--Platform%20System)-5B3A7D?style=flat-square" /></td><td>受按钮控制的平台</td><td align="center"><img src="Picture/按钮传送门.gif" width="180"/></td><td>按下按钮切换平台显示与消失，平台显现状态下有碰撞体积。</td></tr>
 </tbody>
