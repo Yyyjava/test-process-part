@@ -248,7 +248,7 @@
 <tr>
 <td align="center" style="padding: 20px;">
 <img src="Picture/回放中.gif" width="800" /><br><br>
-<img src="https://img.shields.io/badge/-4.%20Replaying-5B3A7D?style=flat-square" /><br><br>
+<img src="https://img.shields.io/badge/-4.%20PhantomAwakens-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
 • <b>阶段描述：</b> 分身重复本体在录制中所完成的所有操作，协助本体完成关卡解谜。<br>
 • <b>操作轴表现：</b> 操作轴变成蓝色，且实时显示当前回放的动作进度。<br>
@@ -260,7 +260,7 @@
 <tr>
 <td align="center" style="padding: 20px;">
 <img src="Picture/回放后.gif" width="500" /><br><br>
-<img src="https://img.shields.io/badge/-5.%20AfterReplaying-5B3A7D?style=flat-square" /><br><br>
+<img src="https://img.shields.io/badge/-5.%20PhantomStandby-5B3A7D?style=flat-square" /><br><br>
 <p align="left" style="display: inline-block; text-align: left; max-width: 750px;">
 • <b>阶段描述：</b> 回放结束，分身变回透明阶段，停留在动作终点或等待指令。<br>
 • <b>操作轴表现：</b> 操作轴上保留上一次操作的完整记录。<br>
