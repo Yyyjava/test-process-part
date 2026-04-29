@@ -291,3 +291,12 @@
 
   <p><i>Member: Yiyuan Yao · University of Bristol COMSM0166</i></p>
 </div>
+
+
+#### 1. Basic Controls
+
+<div align="center">
+  <img src="./assets/process/key-control.png" width="800" alt="Basic Controls Visualization" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+  <br>
+  <p><i>Standard Control Scheme for Group 13 Game Project</i></p>
+</div>
