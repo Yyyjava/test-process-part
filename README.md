@@ -276,3 +276,18 @@
 </tbody>
 </table>
 
+
+<div align="center">
+  <h3>🎮 Team Executive Roles & Vertical Ownership</h3>
+  <p>Click the image below to view the interactive team dossier for Group 13.</p>
+  
+  <a href="https://yyyjava.github.io/test-process-part/UoB-COMSM0166/2026-group-13/assets/Process/team-roles.html" target="_blank">
+    
+    <img src="./UoB-COMSM0166/2026-group-13/assets/Process/roles-preview.png" 
+         alt="Executive Roles Preview" 
+         width="800" 
+         style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+  </a>
+
+  <p><i>Member: Yiyuan Yao · University of Bristol COMSM0166</i></p>
+</div>
