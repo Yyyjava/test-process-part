@@ -306,37 +306,37 @@
   <h4><b>Table 6</b></h4>
   <p><i>Table to demonstrate team contributions for Game Project.</i></p>
 
-  <table style="width:75%; text-align:center;">
+  <table width="60%">
     <thead>
       <tr>
-        <th style="text-align:center;">Contributor</th>
-        <th style="text-align:center;">Contribution</th>
+        <th align="center">Contributor</th>
+        <th align="center">Contribution</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Wenlei Miao</td>
-        <td>1.00</td>
+        <td align="center">Wenlei Miao</td>
+        <td align="center">1.00</td>
       </tr>
       <tr>
-        <td>Zhiqing Zhang</td>
-        <td>1.00</td>
+        <td align="center">Zhiqing Zhang</td>
+        <td align="center">1.00</td>
       </tr>
       <tr>
-        <td>Xuelin Ma</td>
-        <td>1.00</td>
+        <td align="center">Xuelin Ma</td>
+        <td align="center">1.00</td>
       </tr>
       <tr>
-        <td>Jingran Zhang</td>
-        <td>1.00</td>
+        <td align="center">Jingran Zhang</td>
+        <td align="center">1.00</td>
       </tr>
       <tr>
-        <td>Yiyuan Yao</td>
-        <td>1.00</td>
+        <td align="center">Yiyuan Yao</td>
+        <td align="center">1.00</td>
       </tr>
       <tr>
-        <td>Siqi Xu</td>
-        <td>1.00</td>
+        <td align="center">Siqi Xu</td>
+        <td align="center">1.00</td>
       </tr>
     </tbody>
   </table>
