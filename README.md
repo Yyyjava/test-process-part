@@ -313,29 +313,29 @@
     <tbody>
       <tr>
         <td align="center">Wenlei Miao</td>
-        <td align="center">1.00</td>
+        <td align="center">0.95</td>
       </tr>
       <tr>
         <td align="center">Zhiqing Zhang</td>
-        <td align="center">1.00</td>
+        <td align="center">1.25</td>
       </tr>
       <tr>
         <td align="center">Xuelin Ma</td>
-        <td align="center">1.00</td>
+        <td align="center">0.95</td>
       </tr>
       <tr>
         <td align="center">Jingran Zhang</td>
-        <td align="center">1.00</td>
+        <td align="center">0.95</td>
       </tr>
       <tr>
         <td align="center">Yiyuan Yao</td>
-        <td align="center">1.00</td>
+        <td align="center">0.95</td>
       </tr>
       <tr>
         <td align="center">Siqi Xu</td>
-        <td align="center">1.00</td>
+        <td align="center">0.95</td>
       </tr>
     </tbody>
   </table>
-  <p><i>Table to demonstrate team contributions for Game Project.</i></p>
+  <p><i>Team contributions for the Project.</i></p>
 </div>
