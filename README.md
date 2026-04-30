@@ -312,12 +312,12 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center">Wenlei Miao</td>
-        <td align="center">0.95</td>
-      </tr>
-      <tr>
         <td align="center">Zhiqing Zhang</td>
         <td align="center">1.25</td>
+      </tr>
+      <tr>
+        <td align="center">Wenlei Miao</td>
+        <td align="center">0.95</td>
       </tr>
       <tr>
         <td align="center">Xuelin Ma</td>
