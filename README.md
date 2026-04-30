@@ -303,9 +303,6 @@
 
 
 <div align="center">
-  <h4><b>Table 6</b></h4>
-  <p><i>Table to demonstrate team contributions for Game Project.</i></p>
-
   <table width="60%">
     <thead>
       <tr>
@@ -340,4 +337,5 @@
       </tr>
     </tbody>
   </table>
+  <p><i>Table to demonstrate team contributions for Game Project.</i></p>
 </div>
