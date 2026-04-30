@@ -339,3 +339,13 @@
   </table>
   <p><i>Team contributions for the Project.</i></p>
 </div>
+
+<div align="center">
+  <br>
+  <a href="https://uob-comsm0166.github.io/2026-group-13/assets/process/Team-roles.html" target="_blank" title="Click to view interactive team roles">
+    <img src="./team-roles.png" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+  </a>
+  <br>
+  <p><i>Click the image above to view our interactive team dossier.</i></p>
+  <br>
+</div>
